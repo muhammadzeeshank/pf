@@ -43,7 +43,7 @@ small {
 }
 /* ****id Selectors**** */
 #mountain {
-    width: 30rem;
+    width: 25rem;
     margin: auto;
 }
 #profile-photo {
@@ -67,7 +67,7 @@ small {
 .bottom-cloud {
     position: absolute;
     left: 20%;
-    top: 230px;
+    bottom: 240px;
 }
 .cloud-width {
     width: 6.25rem;
